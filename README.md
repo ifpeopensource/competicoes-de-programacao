@@ -20,10 +20,12 @@ O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encont
 ## 📖 Veja as soluções e competições já adicionadas:
 <details>
 <summary>OPEI (Olimpíada Pernambucana de Informática)</summary>
+  <br>
   <li>Sobre a OPEI</li>
   <details>
     <summary>2019</summary>
-    <li><a href="/opei/2019/colehita-de-milho">Colheita de Milho</a></li>
+    <br>
+    <li><a href="/opei/2019/colheita-de-milho">Colheita de Milho</a></li>
     <li><a>Hotel Maluco</a></li>
     <li><a>Mesa para quantos?</a></li>
     <li><a>Paciente zero</a></li>
