@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+![Cmpetições de programação](assets/logo_competicoes_ifos.png)
+### Seja bem vindo! O IFPE Open Source incentiva a participação em competições e olimpíadas de programação. 
 
-You can use the [editor on GitHub](https://github.com/ifpe-open-source/competicoes-de-programacao/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 🤷‍ O que são competições de programação?
+Estas competições normalmente envolvem a criação de programas e algoritmos baseados em algum problema lógico. Existem diversas competições, veja algumas competições/olimpíadas conhecidas:
+- [OPEI (Olimpíada Pernambucana de Informática)](https://opei.cin.ufpe.br)
+- [OBI (Olimpíada Brasileira de Informática)](https://olimpiada.ic.unicamp.br/)
+- [Maratona SBC de Programação](http://maratona.sbc.org.br/index.html)
+- [IOI (Olimpíada Internacional de Informática)](https://ioinformatics.org)
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/)
+- [Google Hascode](https://hashcode.withgoogle.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- ...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Caso queira saber ainda mais sobre essas competições, veja [este artigo](https://en.wikipedia.org/wiki/Competitive_programming) na Wikipédia.
 
-### Markdown
+## 🎯 Pra quê este repositório?
+O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encontrar pra resolver e apresentar soluções para problemas juntos. Este repositório guarda as soluções em diversas em linguagens feitas pela comunidade, todas organizadas por competição/ano/edição entre outros.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## 📖 Veja as soluções e competições já adicionadas:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Aqui ficarão as pastas e os diretórios organizados [TODO]
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ifpe-open-source/competicoes-de-programacao/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 👉👈 Quero mandar minha solução!
+Ótimo, esse é o objetivo da comunidade! Isso pode variar caso o problema da sua solução já tenha sido adicionado, caso já exista uma solução da linguagem que você fez e entre outros... Faz o seguinte, acessa o [CONTRIBUTING.MD](/CONTRIBUTING.md) pra entender como mostrar sua solução incrível pro mundo! 😉
