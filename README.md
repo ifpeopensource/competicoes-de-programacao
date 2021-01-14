@@ -20,18 +20,17 @@ O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encont
 ## 📖 Veja as soluções e competições já adicionadas:
 <details>
 <summary>OPEI (Olimpíada Pernambucana de Informática)</summary>
-  <br>
   <li>Sobre a OPEI</li>
   <details>
     <summary>2019</summary>
-    <br>
+    <li><a href="/opei/2019/cifra-de-cesar">CIfra de César</a></li>
     <li><a href="/opei/2019/colheita-de-milho">Colheita de Milho</a></li>
-    <li><a>Hotel Maluco</a></li>
-    <li><a>Mesa para quantos?</a></li>
-    <li><a>Paciente zero</a></li>
-    <li><a>Tudo é palíndromo</a></li>
-    <li><a>Usuários únicos</a></li>
-    <li><a>Validação de Cartão</a></li>
+    <li><a href="/opei/2019/hotel-maluco">Hotel Maluco</a></li>
+    <li><a href="/opei/2019/mesa-pra-quantos">Mesa para quantos?</a></li>
+    <li><a href="/opei/2019/paciente-zero">Paciente zero</a></li>
+    <li><a href="/opei/2019/tudo-palindromo">Tudo é palíndromo</a></li>
+    <li><a href="/opei/2019/usuarios-unicos">Usuários únicos</a></li>
+    <li><a href="/opei/2019/validacao-de-cartao">Validação de Cartão</a></li>
   </details>
   <li>2020</li>
 </details>
