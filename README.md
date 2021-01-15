@@ -18,22 +18,47 @@ Caso queira saber ainda mais sobre essas competições, veja [este artigo](https
 O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encontrar pra resolver e apresentar soluções para problemas juntos. Este repositório guarda as soluções em diversas em linguagens feitas pela comunidade, todas organizadas por competição/ano/edição entre outros.
 
 ## 📖 Veja as soluções e competições já adicionadas:
+<ul>
+<li>
 <details>
 <summary>OPEI (Olimpíada Pernambucana de Informática)</summary>
-  <li>Sobre a OPEI</li>
-  <details>
-    <summary>2019</summary>
-    <li><a href="/opei/2019/cifra-de-cesar">CIfra de César</a></li>
-    <li><a href="/opei/2019/colheita-de-milho">Colheita de Milho</a></li>
-    <li><a href="/opei/2019/hotel-maluco">Hotel Maluco</a></li>
-    <li><a href="/opei/2019/mesa-pra-quantos">Mesa para quantos?</a></li>
-    <li><a href="/opei/2019/paciente-zero">Paciente zero</a></li>
-    <li><a href="/opei/2019/tudo-palindromo">Tudo é palíndromo</a></li>
-    <li><a href="/opei/2019/usuarios-unicos">Usuários únicos</a></li>
-    <li><a href="/opei/2019/validacao-de-cartao">Validação de Cartão</a></li>
-  </details>
-  <li>2020</li>
+<ul>
+  <li>
+    <details>
+      <summary>2019</summary>
+      <ul>
+        <li><a href="/opei/2019/cifra-de-cesar">Cifra de Cesar</a></li>
+        <li><a href="/opei/2019/colheita-de-milho">Colheita de Milho</a></li>
+        <li><a href="/opei/2019/hotel-maluco">Hotel Maluco</a></li>
+        <li><a href="/opei/2019/mesa-pra-quantos">Mesa pra quantos?</a></li>
+        <li><a href="/opei/2019/paciente-zero">Paciente Zero</a></li>
+        <li><a href="/opei/2019/tudo-palindromo">Tudo é palíndromo</a></li>
+        <li><a href="/opei/2019/usuarios-unicos">Usuários Únicos</li>
+        <li><a href="/opei/2019/validacao-de-cartao">Validação de Cartão</a></li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>2020</summary>
+      <p>TODO</p>
+    </details>
+  </li>
+
+</ul>
 </details>
+
+</li>
+<li>
+  OBI (Exemplo)
+</li>
+
+<li>
+  Code Jam (Exemplo)
+</li>
+</ul>
+
 
 ## 👉👈 Quero mandar minha solução!
 Ótimo, esse é o objetivo da comunidade! Isso pode variar caso o problema da sua solução já tenha sido adicionado, caso já exista uma solução da linguagem que você fez e entre outros... Faz o seguinte, acessa o [CONTRIBUTING.MD](/CONTRIBUTING.md) pra entender como mostrar sua solução incrível pro mundo! 😉
