@@ -1,4 +1,4 @@
-![Competições de programação](docs/images/logo_competicoes_ifos.png)
+![Competições de programação](docs/imagens/logo_competicoes_ifos.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/ifpe-open-source/competicoes-de-programacao.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![GitHub contributors](https://img.shields.io/github/contributors/ifpe-open-source/competicoes-de-programacao.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
