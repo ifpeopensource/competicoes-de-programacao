@@ -1,4 +1,7 @@
-![Cmpetições de programação](assets/logo_competicoes_ifos.png)
+![Competições de programação](docs/images/logo_competicoes_ifos.png)
+
+[![GitHub stars](https://img.shields.io/github/stars/ifpe-open-source/competicoes-de-programacao.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![GitHub contributors](https://img.shields.io/github/contributors/ifpe-open-source/competicoes-de-programacao.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 ### Seja bem vindo! O IFPE Open Source incentiva a participação em competições e olimpíadas de programação. 
 
 ## 🤷‍ O que são competições de programação?
@@ -17,7 +20,7 @@ Caso queira saber ainda mais sobre essas competições, veja [este artigo](https
 ## 🎯 Pra quê este repositório?
 O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encontrar pra resolver e apresentar soluções para problemas juntos. Este repositório guarda as soluções em diversas em linguagens feitas pela comunidade, todas organizadas por competição/ano/edição entre outros.
 
-## 📖 Veja as soluções e competições já adicionadas:
+## 📖 Veja os problemas e competições já adicionados:
 <ul>
 <li>
 <details>
@@ -42,10 +45,9 @@ O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encont
   <li>
     <details>
       <summary>2020</summary>
-      <p>TODO</p>
+      <p>Gabarito e problemas a serem liberados pela organização</p>
     </details>
   </li>
-
 </ul>
 </details>
 
@@ -55,7 +57,7 @@ O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encont
 </li>
 
 <li>
-  Code Jam (Exemplo)
+  Maratona SBC de Programação (Exemplo)
 </li>
 </ul>
 
