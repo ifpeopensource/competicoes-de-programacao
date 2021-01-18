@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ifos.vercel.app" target="_blank">
-    <img alt="Competições de Programação" width="400px" src="docs/imagens/logo_competicoes_ifos.png"/> 
+    <img alt="Competições de Programação" width="550px" src="docs/imagens/ifos/logo_competicoes_ifos.png"/> 
   </a>
 </p>
 
