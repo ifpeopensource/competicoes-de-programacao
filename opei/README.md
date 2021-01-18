@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350px" src="../docs/imagens/opei/logo_opei.png"/> 
+  <img width="375px" src="../docs/imagens/opei/logo_opei.png"/> 
 </p>
 
 # [***Olimpíada Pernambucana de Informática***](https://opei.cin.ufpe.br)
@@ -9,7 +9,6 @@
 <br/>
 
 ## Problemas já adicionados
-
 <details>
   <summary>2019</summary>
     <ul>

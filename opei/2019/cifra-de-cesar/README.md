@@ -2,7 +2,7 @@
   <img width="250px" src="../../../docs/imagens/opei/logo_opei.png"/> 
 </p>
 
-# **OPEI 2019 - *Cifra de Cesar***
+ <h1 align="center" style="font-weight: bold">OPEI 2019 - <span style="font-style: italic">Cifra de Cesar</span></h1>
 
 Camila é uma menina de 13 anos bastante curiosa e que adora passar o tempo mexendo em suas redes sociais. Ultimamente, tem se falado bastante sobre privacidade dos dados e como o whatsapp(WPP) é criptografado ponta a ponta a fim de evitar que as mensagem sejam lidas por pessoas diferentes sem ser as que participam da conversa. Camila achou interessante essa funcionalidade do WPP e quis saber mais como funcionava a criptografia. Por isso, começou a estudar sobre e achou informações sobre a Cifra de Cesar, um dos métodos mais simples de criptografia.
 

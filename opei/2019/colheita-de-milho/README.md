@@ -2,7 +2,7 @@
   <img width="250px" src="../../../docs/imagens/opei/logo_opei.png"/> 
 </p>
 
-# **OPEI 2019 - *Colheita de Milho***
+ <h1 align="center" style="font-weight: bold">OPEI 2019 - <span style="font-style: italic">Colheita de Milho</span></h1>
 
 Michilinho é um garoto que mora na roça e sempre ajuda o seu pai a colher os milhos de sua plantação. Entretanto, a plantação possui ruas onde nem todas as espigas de milho estão maduras o suficiente para serem colhidas. A fim de otimizar seu tempo, Michilinho quer entrar nas ruas de tal forma que, ao chegar no final do terreno, ele vai ter colhido o máximo de milhos possíveis, para em seguida poder jogar bola com seus amigos.
 
