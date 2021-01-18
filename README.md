@@ -22,7 +22,7 @@ Estas competições normalmente envolvem a criação de programas e algoritmos b
 - [Maratona SBC de Programação](http://maratona.sbc.org.br/index.html)
 - [IOI (Olimpíada Internacional de Informática)](https://ioinformatics.org)
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/)
-- [Google Hascode](https://hashcode.withgoogle.com/)
+- [Google Hashcode](https://hashcode.withgoogle.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - ...
 
