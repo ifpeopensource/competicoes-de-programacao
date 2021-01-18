@@ -1,4 +1,6 @@
-![OPEI](../../../docs/imagens/opei/logo_opei.png)
+<p align="center">
+  <img width="250px" src="../../../docs/imagens/opei/logo_opei.png"/> 
+</p>
 
 # **OPEI 2019 - *Cifra de Cesar***
 

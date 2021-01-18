@@ -1,8 +1,19 @@
-![Competições de programação](docs/imagens/logo_competicoes_ifos.png)
+<p align="center">
+  <a href="https://ifos.vercel.app" target="_blank">
+    <img alt="Competições de Programação" width="400px" src="docs/imagens/logo_competicoes_ifos.png"/> 
+  </a>
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/ifpe-open-source/competicoes-de-programacao.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![GitHub contributors](https://img.shields.io/github/contributors/ifpe-open-source/competicoes-de-programacao.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<p align="center">
+  <img alt="Repo size" src="https://img.shields.io/github/last-commit/ifpe-open-source/competicoes-de-programacao">
+  <img alt="Github contributors" src="https://img.shields.io/github/contributors/ifpe-open-source/competicoes-de-programacao.svg">
+  <img alt="Github stars" src="https://img.shields.io/github/stars/ifpe-open-source/competicoes-de-programacao.svg?style=social&label=Star&maxAge=2592000">
+  <img alt="We love Open Source" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+</p>
 
-### Seja bem vindo! O IFPE Open Source incentiva a participação em competições e olimpíadas de programação. 
+<h3 align="center">Seja bem vindo! O IFPE Open Source possuí um projeto dedicado à participação e treinamento para competições e olimpíadas de programação.</h3>  
+
+<br/>
 
 ## 🤷‍ O que são competições de programação?
 Estas competições normalmente envolvem a criação de programas e algoritmos baseados em algum problema lógico. Existem diversas competições, veja algumas competições/olimpíadas conhecidas:
