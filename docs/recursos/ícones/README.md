@@ -1,4 +1,4 @@
-# Links e SVG de Ícones úteis 
+# Links e SVGs de Ícones úteis 
 No caso de SVG's é possível controlar o tamanho do ícone pela tag *width*, dessa forma:
 ```css
 width="100px"

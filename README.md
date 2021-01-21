@@ -35,11 +35,11 @@ O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encont
 <ul>
 <li>
 <details>
-<summary>OPEI (Olimpíada Pernambucana de Informática)</summary>
+<summary><a href="/opei">OPEI (Olimpíada Pernambucana de Informática</a></summary>
 <ul>
   <li>
     <details>
-      <summary>2019</summary>
+      <summary><a href="/opei/2019">2019</a></summary>
       <ul>
         <li><a href="/opei/2019/cifra-de-cesar">Cifra de Cesar</a></li>
         <li><a href="/opei/2019/colheita-de-milho">Colheita de Milho</a></li>
@@ -55,7 +55,7 @@ O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encont
 
   <li>
     <details>
-      <summary>2020</summary>
+      <summary><a href="/opei/2019">2020</a></summary>
       <p>Gabarito e problemas a serem liberados pela organização</p>
     </details>
   </li>
