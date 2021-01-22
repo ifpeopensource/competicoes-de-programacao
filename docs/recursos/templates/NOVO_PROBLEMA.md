@@ -74,6 +74,6 @@ olimpiada pernambucana de informatica
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
-| <img width="100px" alt="Python" src="../../../docs/recursos/ícones/python.svg"> | Python | @nick-do-usuário | Nome do usuário |
-| <img width="100px" alt="Python" src="../../../docs/recursos/ícones/java.svg"> | Java | @nick-do-usuário | Nome do usuário |
-| *Ícone indisponível* | Portugol | @nick-do-usuário | Nome do usuário |
+| <img width="100px" alt="Python" src="../../../docs/recursos/ícones/python.svg"> | Python | [@nick-do-usuário](link.do.perfil) | Nome do usuário |
+| <img width="100px" alt="Python" src="../../../docs/recursos/ícones/java.svg"> | Java | [@nick-do-usuário](link.do.perfil) | Nome do usuário |
+| ***Ícone indisponível*** | Linguagem sem ícone | [@nick-do-usuário](link.do.perfil) | Nome do usuário |

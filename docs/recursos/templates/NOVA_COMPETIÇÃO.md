@@ -30,4 +30,4 @@ Sinta-se à vontade para adicionar outras seções ou descrições relevantes da
 ## Linguagens permitidas
 | C | C++ | Java | Linguagem sem ícone |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img width="100px" alt="C" src="../docs/recursos/ícones/c.svg"> | <img width="100px" alt="C++" src="../docs/recursos/ícones/c++.svg"> | <img width="100px" alt="Java" src="../docs/recursos/ícones/java.svg"> | **Linguagem sem ícone** |
+| <img width="100px" alt="C" src="../docs/recursos/ícones/c.svg"> | <img width="100px" alt="C++" src="../docs/recursos/ícones/c++.svg"> | <img width="100px" alt="Java" src="../docs/recursos/ícones/java.svg"> | ***Ícone indisponível*** |

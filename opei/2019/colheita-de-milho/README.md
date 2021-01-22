@@ -53,4 +53,4 @@ O maior número possível de milhos a serem colhidos.
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
-| <img width="100px" alt="Python" src="../../../docs/recursos/ícones/python.svg">  | Python | @fabiopapais | Fábio Papais |
+| <img width="100px" alt="Python" src="../../../docs/recursos/ícones/python.svg">  | Python | [@fabiopapais](github.com/fabiopapais) | Fábio Papais |
