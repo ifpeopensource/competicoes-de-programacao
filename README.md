@@ -11,7 +11,7 @@
   <img alt="We love Open Source" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 </p>
 
-<h3 align="center">Seja bem vindo! O IFPE Open Source possuí um projeto dedicado à participação e treinamento para competições e olimpíadas de programação.</h3>  
+<h3 align="center">Seja bem vindo! O IFPE Open Source possui um projeto dedicado à participação e treinamento para competições e olimpíadas de programação.</h3>  
 
 <br/>
 
@@ -74,4 +74,4 @@ O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encont
 
 
 ## 👉👈 Quero mandar minha solução!
-Ótimo, esse é o objetivo da comunidade! Isso pode variar caso o problema da sua solução já tenha sido adicionado, caso já exista uma solução da linguagem que você fez e entre outros... Faz o seguinte, acessa o [CONTRIBUTING.MD](/CONTRIBUTING.md) pra entender como mostrar sua solução incrível pro mundo! 😉
+Ótimo, esse é o objetivo da comunidade! Isso pode variar caso o problema da sua solução já tenha sido adicionado, caso já exista uma solução da linguagem que você fez e entre outros... Faz o seguinte, acessa o [CONTRIBUTING.MD](/CONTRIBUTING.md) pra entender como pode contribuir para o projeto! 😉
