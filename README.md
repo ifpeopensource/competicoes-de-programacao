@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ifos.vercel.app" target="_blank">
+  <a href="https://ifpeopensource.vercel.app" target="_blank">
     <img alt="Competições de Programação" width="550px" src="docs/imagens/ifos/logo_competicoes_ifos.png"/> 
   </a>
 </p>
