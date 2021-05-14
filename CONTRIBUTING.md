@@ -1,7 +1,9 @@
 # 🎯 Manual de Contribuição
 Que ótimo que você deseja contribuir neste projeto! É assim que as comunidades se desenvolvem, com o desejo e empolgação de várias pessoas em construir algo que importe!
 
-Existem **diversas** formas de ajudar neste projeto, até mesmo se você não tenha nenhuma solução ou até mesmo se não sabe alguma linguagem de programação! Abaixo você pode conferir um resumo com todas as formas de contribuir neste repositório, dividias em seções e subseções:
+Caso fique em dúvida em algum passo, basta ver os exemplos de problemas, competições e soluções adicionadas no repositório, eles vão lhe ajudar neste processo!
+
+Abaixo você pode conferir um resumo com todas as formas de contribuir neste repositório, dividias em seções e subseções:
 
 - **Adicionar soluções**
   - [Quero adicionar uma solução *para um problema já adicionado*](#Adicionar-soluções)
@@ -9,7 +11,7 @@ Existem **diversas** formas de ajudar neste projeto, até mesmo se você não te
       <summary>Quero adicionar uma solução <i>para um problema ainda não adicionado</i></summary>
         <ol>
           <li>Veja a seção "Adicionar problemas"</li>
-          <li>Retorne para esta seção e veja "Quero adicionar uma solução *para um problema já adicionado"</li>
+          <li>Retorne para esta seção e veja "Quero adicionar uma solução para um problema já adicionado"</li>
         </ol>
     </details>  
 - **Adicionar problemas**
@@ -51,8 +53,15 @@ Caso queira adicionar novas linguagens abaixo, basta adicionar uma nova linha:
 | <img width="100px" alt="C++" src="docs/recursos/ícones/c++.svg"> | C++ | [@weltonfelix](https://github.com/weltonfelix) | Welton Felix |
 
 ## Adicionar problemas
----
-[TODO]
+Antes de adicionar um problema, certifique-se de que a competição/olimpíada da qual vocẽ retirou o problema já está adicionada (caso não esteja, basta ver a seção [Adicionar competições](#Adicionar-competições)) Atente-se também 
+
+Para adicionar um novo problema é bem simples:
+
+1) Dentro da pasta da competição, encontre a pasta com a edição em que o seu problema apareceu (caso não exista, crie uma), por exemplo, 2019, 2020, XVI. **Dentro desta pasta, crie uma nova com o nome do seu problema.** 
+> Siga a formatação padrão, escrevendo os nomes em minúsculo, sem acentos e palavras separadas por travessões ("-"). *Por exemplo, se o nome do seu problema é "Colheita de Milho", o nome da pasta será "colheita-de-milho"*.
+2) **Adicione seu arquivo com a solução dentro desta pasta.** O nome do arquivo deve ter o mesmo nome da pasta.
+3) **Dentro da pasta do problema, crie um arquivo README.md**, é nele que ficará o enunciado do problema, além de outras informações relevantes para a comunidade.
+4) Por fim, **preencha o seu README.md** com as informações do problema. **O template NOVO_PROBLEMA.md está disponível neste repositório na pasta ```docs/recursos/templates```.** Basta copiar o conteúdo deste template e preencher com as informações do seu problema.
 
 ## Adicionar competições
 ---
