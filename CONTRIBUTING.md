@@ -53,7 +53,7 @@ Caso queira adicionar novas linguagens abaixo, basta adicionar uma nova linha:
 | <img width="100px" alt="C++" src="docs/recursos/ícones/c++.svg"> | C++ | [@weltonfelix](https://github.com/weltonfelix) | Welton Felix |
 
 ## Adicionar problemas
-Antes de adicionar um problema, certifique-se de que a competição/olimpíada da qual vocẽ retirou o problema já está adicionada (caso não esteja, basta ver a seção [Adicionar competições](#Adicionar-competições)) Atente-se também 
+Antes de adicionar um problema, certifique-se de que a competição/olimpíada da qual vocẽ retirou o problema já está adicionada (caso não esteja, basta ver a seção [Adicionar competições](#Adicionar-competições)) Atente-se também para a edição/ano da competição, separando as edições por pastas (ex.: "2019", "2020", "2021").
 
 Para adicionar um novo problema é bem simples:
 
@@ -61,8 +61,11 @@ Para adicionar um novo problema é bem simples:
 > Siga a formatação padrão, escrevendo os nomes em minúsculo, sem acentos e palavras separadas por travessões ("-"). *Por exemplo, se o nome do seu problema é "Colheita de Milho", o nome da pasta será "colheita-de-milho"*.
 2) **Adicione seu arquivo com a solução dentro desta pasta.** O nome do arquivo deve ter o mesmo nome da pasta.
 3) **Dentro da pasta do problema, crie um arquivo README.md**, é nele que ficará o enunciado do problema, além de outras informações relevantes para a comunidade.
-4) Por fim, **preencha o seu README.md** com as informações do problema. **O template NOVO_PROBLEMA.md está disponível neste repositório na pasta ```docs/recursos/templates```.** Basta copiar o conteúdo deste template e preencher com as informações do seu problema.
+4) Por fim, **preencha o seu README.md** com as informações do problema. **O template [NOVO_PROBLEMA.md](docs/recursos/templates/NOVO_PROBLEMA.md) está disponível neste repositório na pasta ```docs/recursos/templates```.** Basta copiar o conteúdo deste template e preencher com as informações do seu problema.
 
 ## Adicionar competições
----
-[TODO]
+Adicionar uma competição é bem simples, basta criar pastas e um README.md. Veja o passo a passo:
+
+1) Na raiz do repositório, **crie uma pasta com o nome da competição**. *Siga a formatação padrão*, com letras em minúsculo e palavras separadas por travessão (ex.: "Code Jam" vira "code-jam").
+2) Dentro da pasta da nova competição, *crie um arquivo README.md*
+3) Por fim, **preencha o seu README.md** com as informações da competição. **O template [NOVA_COMPETIÇÃO.md](docs/recursos/templates/NOVA_COMPETIÇÃO.md) está disponível neste repositório na pasta ```docs/recursos/templates```.** Basta copiar o conteúdo deste template e preencher com as informações da sua competição.
