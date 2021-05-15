@@ -1,4 +1,4 @@
-### **OBSERVAÇÕES IMPORTANTES (NÃO ESQUEÇA DE APAGAR TUDO ANTES DA LOGO ANTES DE SUBMETER)**
+### **OBSERVAÇÕES IMPORTANTES (NÃO ESQUEÇA DE APAGAR TUDO ANTES DA LOGOMARCA ANTES DE SUBMETER)**
 --- 
 > Este é apenas um template, que, a fim de exemplo, está usando alguns elementos da OPEI (Olimpíada Pernambucana de Informática). Dessa forma, se lembre de sempre editar e portar todas as informações para o problema que deseja adicionar! Isso inclui logos, imagens, links, descrições, entre outros. Lembre-se de ver outros READMEs de problemas dessa competição (se disponível) para ver como o template pode ser seguido.
 
