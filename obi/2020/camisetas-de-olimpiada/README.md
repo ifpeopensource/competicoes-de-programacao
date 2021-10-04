@@ -14,7 +14,7 @@ Dadas a lista com os tamanhos preferidos pelos premiados e a quantidade de camis
 A primeira linha contém um inteiro N, o número de premiados. A segunda linha contém N inteiros Ti, indicando os tamanhos solicitados pelos premiados, sendo que Ti = 1 representa o tamanho pequeno e Ti = 2 representa o tamanho médio. A terceira linha contém um inteiro P, o número de camisetas de tamanho pequeno produzidas. A quarta e última contém um inteiro M, o número de camisetas de tamanho médio produzidas.
 
 ## Saída ➡️
-Seu programa deve produzir uma única linha, contendo um único caractere, que deve ser a letra maiúscula 'S' se todos os premiados serão atendidos com a camiseta do tamanho que escolheram, ou a letra maiúscula 'N' caso contrário.
+Seu programa deve produzir uma única linha, contendo um único caractere, que deve ser a letra maiúscula `'S'` se todos os premiados serão atendidos com a camiseta do tamanho que escolheram, ou a letra maiúscula `'N'` caso contrário.
 
 ## Restrições
 <li>`1 ≤ N ≤ 1000`</li>
