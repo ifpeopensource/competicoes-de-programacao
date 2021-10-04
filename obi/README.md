@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="375px" src="../docs/imagens/obi/logo-obi2021.svg"/> 
+  <img width="375px" src="../docs/imagens/obi/logo-obi.svg"/> 
 </p>
 
 # [**Olimpíada Brasileira de Informática**](https://olimpiada.ic.unicamp.br/info/)
