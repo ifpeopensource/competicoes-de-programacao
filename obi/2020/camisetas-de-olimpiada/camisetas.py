@@ -1,4 +1,4 @@
-#camisetas - OBI 2020
+# Camisetas - OBI 2020
 count1 = 0
 count2 = 0
 

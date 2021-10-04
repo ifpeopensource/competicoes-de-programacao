@@ -1,4 +1,4 @@
-# Irmãos OBI 2020
+# Irmãos - OBI 2020
 c = int(input())
 b = int(input())
 
