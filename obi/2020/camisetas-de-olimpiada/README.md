@@ -16,7 +16,7 @@ A primeira linha contém um inteiro N, o número de premiados. A segunda linha c
 ## Saída ➡️
 Seu programa deve produzir uma única linha, contendo um único caractere, que deve ser a letra maiúscula 'S' se todos os premiados serão atendidos com a camiseta do tamanho que escolheram, ou a letra maiúscula 'N' caso contrário.
 
-## Restrições ➡️
+## Restrições
 <li> 1 ≤ N ≤ 1000</li>
 <li> 0 ≤ P ≤ 1000</li>
 <li> 0 ≤ M ≤ 1000</li>
