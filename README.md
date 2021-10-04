@@ -80,6 +80,14 @@ A comunidade IFPE Open Source se engaja em Competições e Olimpíadas de progra
 <li><a href="/obi/2020/irmaos">Irmãos</a></li>
 </ul>
 </details>
+<li>
+<details>
+<summary><a href="/obi/2021">2021</a></summary>
+<ul>
+<li><a href="/obi/2021/idade-de-camila">Idade de Camila</a></li>
+<li><a href="/obi/2021/zero-para-cancelar">Zero para Cancelar</a></li>
+</ul>
+</details>
 </li>
 </ul>
 </details>
