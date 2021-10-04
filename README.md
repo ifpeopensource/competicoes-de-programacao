@@ -35,7 +35,7 @@ Estas competições normalmente envolvem a criação de programas e algoritmos b
 Caso queira saber ainda mais sobre essas competições, veja [este artigo](https://en.wikipedia.org/wiki/Competitive_programming) na Wikipédia.
 
 ## 🎯 Pra quê este repositório?
-O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encontrar pra resolver e apresentar soluções para problemas juntos. Este repositório guarda as soluções em diversas em linguagens feitas pela comunidade, todas organizadas por competição/ano/edição entre outros.
+A comunidade IFPE Open Source se engaja em Competições e Olimpíadas de programação, este repositório é uma forma de estimular a resolução de problemas (armazenando suas soluções) e ajudar pessoas que estiverem em dúvida sobre alguma resolução. OBS.: Sempre tente resolver o problema sozinho antes de recorrer às soluções, esta é a melhor forma de aprender e treinar.
 
 ## 📖 Veja os problemas e competições já adicionados:
 <ul>
@@ -43,39 +43,48 @@ O IFPE Open Source (pretende) fazer encontros semanais onde poderemos nos encont
 <details>
 <summary><a href="/opei">OPEI (Olimpíada Pernambucana de Informática</a></summary>
 <ul>
-  <li>
-    <details>
-      <summary><a href="/opei/2019">2019</a></summary>
-      <ul>
-        <li><a href="/opei/2019/cifra-de-cesar">Cifra de Cesar</a></li>
-        <li><a href="/opei/2019/colheita-de-milho">Colheita de Milho</a></li>
-        <li><a href="/opei/2019/hotel-maluco">Hotel Maluco</a></li>
-        <li><a href="/opei/2019/mesa-pra-quantos">Mesa pra quantos?</a></li>
-        <li><a href="/opei/2019/paciente-zero">Paciente Zero</a></li>
-        <li><a href="/opei/2019/tudo-palindromo">Tudo é palíndromo</a></li>
-        <li><a href="/opei/2019/usuarios-unicos">Usuários Únicos</li>
-        <li><a href="/opei/2019/validacao-de-cartao">Validação de Cartão</a></li>
-      </ul>
-    </details>
-  </li>
-
-  <li>
-    <details>
-      <summary><a href="/opei/2019">2020</a></summary>
-      <p>Gabarito e problemas a serem liberados pela organização</p>
-    </details>
-  </li>
+<li>
+<details>
+<summary><a href="/opei/2019">2019</a></summary>
+<ul>
+<li><a href="/opei/2019/cifra-de-cesar">Cifra de Cesar</a></li>
+<li><a href="/opei/2019/colheita-de-milho">Colheita de Milho</a></li>
+<li><a href="/opei/2019/hotel-maluco">Hotel Maluco</a></li>
+<li><a href="/opei/2019/mesa-pra-quantos">Mesa pra quantos?</a></li>
+<li><a href="/opei/2019/paciente-zero">Paciente Zero</a></li>
+<li><a href="/opei/2019/tudo-palindromo">Tudo é palíndromo</a></li>
+<li><a href="/opei/2019/usuarios-unicos">Usuários Únicos</li>
+<li><a href="/opei/2019/validacao-de-cartao">Validação de Cartão</a></li>
 </ul>
 </details>
-
-</li>
-<li>
-  OBI (Exemplo)
 </li>
 
 <li>
-  Maratona SBC de Programação (Exemplo)
+<details>
+<summary><a href="/opei/2020">2020</a></summary>
+</details>
 </li>
+</ul>
+</details>
+</li>
+  
+<li>
+<details>
+<summary><a href="/obi">OBI (Olimpíada Brasileira de Informática</a></summary>
+<ul>
+<li>
+<details>
+<summary><a href="/obi/2020">2020</a></summary>
+<ul>
+<li><a href="/obi/2020/camisetas-de-olimpiada">Camisetas da Olimpíada</a></li>
+<li><a href="/obi/2020/irmaos">Irmãos</a></li>
+</ul>
+</details>
+</li>
+</ul>
+</details>
+</li>
+
 </ul>
 
 
