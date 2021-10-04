@@ -14,7 +14,7 @@ A primeira linha da entrada contém um inteiro N, a idade do irmão mais novo de
 ## Saída ➡️
 Seu programa deve produzir na saída uma única linha, contendo um único número inteiro, a idade do irmão mais velho de Otávio.
 
-## Restrições ➡️
+## Restrições
 <li> 1 ≤ N ≤ 40</li>
 <li> N ≤ M ≤ 40</li>
 
