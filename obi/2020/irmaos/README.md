@@ -16,7 +16,7 @@ Seu programa deve produzir na saída uma única linha, contendo um único númer
 
 ## Restrições
 <li>`1 ≤ N ≤ 40`</li>
-<li>` N ≤ M ≤ 40`</li>
+<li>`N ≤ M ≤ 40`</li>
 
 
 ---
