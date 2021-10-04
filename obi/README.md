@@ -10,6 +10,6 @@ A OBI está organizada em duas modalidades, e cada modalidade é dividida em ní
 <br/>
 
 ## Linguagens permitidas
-| C | C++ | Java | Python | Javascript |
-|:---:|:---:|:---:|:---:|:---:|
-| <img width="100px" alt="C" src="../docs/recursos/ícones/c.svg"> | <img width="100px" alt="C++" src="../docs/recursos/ícones/c++.svg"> | <img width="100px" alt="Java" src="../docs/recursos/ícones/java.svg"> | <img width="100px" alt="Python" src="../docs/recursos/ícones/python.svg"> | <img width="100px" alt="Javascript" src="../docs/recursos/ícones/javascript.svg"> 
+| C | C++ | Java | Python | Javascript | Pascal |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img width="100px" alt="C" src="../docs/recursos/ícones/c.svg"> | <img width="100px" alt="C++" src="../docs/recursos/ícones/c++.svg"> | <img width="100px" alt="Java" src="../docs/recursos/ícones/java.svg"> | <img width="100px" alt="Python" src="../docs/recursos/ícones/python.svg"> | <img width="100px" alt="Javascript" src="../docs/recursos/ícones/javascript.svg"> | **Pascal** |
