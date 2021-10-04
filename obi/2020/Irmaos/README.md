@@ -9,7 +9,7 @@ Otávio tem dois irmãos, um mais velho (Orlando) e um mais novo do que ele (Osc
 Dadas as idades de Otávio e de seu irmão mais novo, escreva um programa para determinar a idade do irmão mais velho.
 
 ## Entrada ⬅️ 
-A primeira linha da entrada contém um inteiro N, a idade do irmão mais novo de Otávio. A segunda linha contém um inteiro M, a idade de Otávio.
+A primeira linha da entrada contém um inteiro `N`, a idade do irmão mais novo de Otávio. A segunda linha contém um inteiro `M`, a idade de Otávio.
 
 ## Saída ➡️
 Seu programa deve produzir na saída uma única linha, contendo um único número inteiro, a idade do irmão mais velho de Otávio.
