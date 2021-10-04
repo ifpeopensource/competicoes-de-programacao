@@ -21,7 +21,7 @@ Seu programa deve produzir uma única linha, contendo um único caractere, que d
 <li> 0 ≤ P ≤ 1000</li>
 <li> 0 ≤ M ≤ 1000</li>
 <li> N ≤ P + M</li>
-<li> 1 ≤ Xi ≤ 2 para 1 ≤ i ≤ N</li>
+<li>`1 ≤ Xi ≤ 2 para 1 ≤ i ≤ N`</li>
 
 ---
 ## Exemplos:
