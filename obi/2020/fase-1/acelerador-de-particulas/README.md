@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250px" src="../../../docs/imagens/obi/logo-obi.svg"/> 
+  <img width="250px" src="../../../../docs/imagens/obi/logo-obi.svg"/> 
 </p>
 
  <h1 align="center" style="font-weight: bold">OBI 2020 - <span style="font-style: italic"> Acelerador de Partículas</span></h1>
