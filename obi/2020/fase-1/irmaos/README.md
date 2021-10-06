@@ -47,4 +47,4 @@ Seu programa deve produzir na saída uma única linha, contendo um único númer
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
-| <img width="100px" alt="Python" src="../../../docs/recursos/ícones/python.svg"> | Python | [@ryangpaiva](https://github.com/ryangpaiva) | Ryan Paiva |
+| <img width="100px" alt="Python" src="../../../../docs/recursos/ícones/python.svg"> | Python | [@ryangpaiva](https://github.com/ryangpaiva) | Ryan Paiva |
