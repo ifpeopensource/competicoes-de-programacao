@@ -20,7 +20,7 @@ Seu programa deve imprimir uma linha contendo um inteiro representando o número
 <li>2 ≤ N ≤ 50000</li>
 <li>1 ≤ A ≤ N</li>
 <li>1 ≤ B ≤ N</li>
-<li>0 ≤ E ≤ 1</li>
+- 0 ≤ E ≤ 1
 
 
 ---
