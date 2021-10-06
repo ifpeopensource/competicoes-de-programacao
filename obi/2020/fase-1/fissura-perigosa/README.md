@@ -33,7 +33,7 @@ Seu programa deve imprimir N linhas contendo, cada uma, N caracteres representan
 
 ## Restrições
 - 1 ≤ N ≤ 500
-<li>0 ≤ F ≤ 9</li>
+- 0 ≤ F ≤ 9
 
 
 
