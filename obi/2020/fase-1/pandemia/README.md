@@ -13,7 +13,7 @@ Você receberá a informação de quais amigos participaram de cada reunião. Al
 
 - todos os amigos que participaram de reunião em que ao menos um deles estava infectado também foram infectados.
 - o único amigo infectado por pessoas de fora do grupo é o que foi informado. No caso de todos os outros amigos que foram infectados a infecção aconteceu em reunião do grupo.
-<li>Escreva um programa para determinar quantos amigos, ao final da sequência de reuniões, foram infectados.</li>
+- Escreva um programa para determinar quantos amigos, ao final da sequência de reuniões, foram infectados.
 
 
 ## Entrada ⬅️ 
