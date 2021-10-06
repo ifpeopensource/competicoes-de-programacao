@@ -17,7 +17,7 @@ A primeira linha da entrada contém um inteiro N, o número de chocolates escolh
 Seu programa deve produzir uma única linha, contendo um único número inteiro, o menor preço a pagar pelos chocolates escolhidos.
 
 ## Restrições
-<li>1 ≤ N ≤ 100000</li>
+- 1 ≤ N ≤ 100000
 <li>1 ≤ P ≤ 1000</li>
 
 
