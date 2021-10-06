@@ -21,7 +21,7 @@ A primeira linha da entrada contém um inteiro N, o número de tendas. Cada uma 
 Seu programa deve produzir uma única linha, contendo um único inteiro, o maior número de guloseimas que Pedrinho pode ganhar.
 
 ## Restrições
-<li>1 ≤ N ≤ 2000</li>
+- 1 ≤ N ≤ 2000
 <li>-10000 ≤ X ≤ 10000</li>
 <li>-10000 ≤ Y ≤ 10000</li>
 
