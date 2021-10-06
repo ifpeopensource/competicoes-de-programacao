@@ -83,6 +83,9 @@ Seu programa deve produzir uma única linha, contendo um único número inteiro,
 
 <br/>
 
+## Link para Online Judge:
+[NEPS Academy](https://neps.academy/br/exercise/975)
+
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|

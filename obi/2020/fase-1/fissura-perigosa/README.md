@@ -97,6 +97,9 @@ Seu programa deve imprimir N linhas contendo, cada uma, N caracteres representan
 
 <br/>
 
+## Link para Online Judge:
+[NEPS Academy](https://neps.academy/br/exercise/825)
+
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|

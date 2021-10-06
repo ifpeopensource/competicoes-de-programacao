@@ -54,6 +54,9 @@ Seu programa deve produzir na saída uma única linha, contendo um único númer
 
 <br/>
 
+## Link para Online Judge:
+[NEPS Academy](https://neps.academy/br/exercise/822)
+
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|

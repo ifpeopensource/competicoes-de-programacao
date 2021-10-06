@@ -14,8 +14,8 @@ A primeira linha da entrada contém um inteiro `N`, a idade do irmão mais novo 
 Seu programa deve produzir na saída uma única linha, contendo um único número inteiro, a idade do irmão mais velho de Otávio.
 
 ## Restrições
-<li>`1 ≤ N ≤ 40`</li>
-<li>`N ≤ M ≤ 40`</li>
+<li>1 ≤ N ≤ 40</li>
+<li>N ≤ M ≤ 40</li>
 
 
 ---
@@ -43,6 +43,9 @@ Seu programa deve produzir na saída uma única linha, contendo um único númer
   ```
 
 <br/>
+
+## Link para Online Judge:
+[NEPS Academy](https://neps.academy/br/exercise/978)
 
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |

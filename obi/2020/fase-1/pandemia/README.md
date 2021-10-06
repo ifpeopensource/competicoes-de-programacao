@@ -83,6 +83,9 @@ Seu programa deve produzir uma única linha, contendo um inteiro, o número tota
 
 <br/>
 
+## Link para Online Judge:
+[NEPS Academy](https://neps.academy/br/exercise/824)
+
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
