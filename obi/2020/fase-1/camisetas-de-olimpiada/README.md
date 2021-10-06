@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="250px" src="../../../docs/imagens/obi/logo-obi.svg"/> 
-</p>
+<img width="250px" src="../../../../docs/imagens/obi/logo-obi.svg"/> </p>
 
  <h1 align="center" style="font-weight: bold">OBI 2020 - <span style="font-style: italic"> Camisetas da Olimpíada</span></h1>
 
@@ -17,11 +16,11 @@ A primeira linha contém um inteiro `N`, o número de premiados. A segunda linha
 Seu programa deve produzir uma única linha, contendo um único caractere, que deve ser a letra maiúscula `'S'` se todos os premiados serão atendidos com a camiseta do tamanho que escolheram, ou a letra maiúscula `'N'` caso contrário.
 
 ## Restrições
-<li>`1 ≤ N ≤ 1000`</li>
-<li>`0 ≤ P ≤ 1000`</li>
-<li>`0 ≤ M ≤ 1000`</li>
-<li>`N ≤ P + M`</li>
-<li>`1 ≤ Xi ≤ 2 para 1 ≤ i ≤ N`</li>
+- 1 ≤ N ≤ 1000
+- 0 ≤ P ≤ 1000
+- 0 ≤ M ≤ 1000
+- N ≤ P + M
+- 1 ≤ Xi ≤ 2 para 1 ≤ i ≤ N
 
 ---
 ## Exemplos:
@@ -68,5 +67,5 @@ Seu programa deve produzir uma única linha, contendo um único caractere, que d
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
-| <img width="100px" alt="Python" src="../../../docs/recursos/ícones/python.svg"> | Python | [@ryangpaiva](https://github.com/ryangpaiva) | Ryan Paiva |
+| <img width="100px" alt="Python" src="../../../../docs/recursos/ícones/python.svg"> | Python | [@ryangpaiva](https://github.com/ryangpaiva) | Ryan Paiva |
 

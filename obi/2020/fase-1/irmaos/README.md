@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="250px" src="../../../docs/imagens/obi/logo-obi.svg"/> 
-</p>
+<img width="250px" src="../../../../docs/imagens/obi/logo-obi.svg"/> </p>
 
  <h1 align="center" style="font-weight: bold">OBI 2020 - <span style="font-style: italic"> Irmãos</span></h1>
 
@@ -48,4 +47,4 @@ Seu programa deve produzir na saída uma única linha, contendo um único númer
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
-| <img width="100px" alt="Python" src="../../../docs/recursos/ícones/python.svg"> | Python | [@ryangpaiva](https://github.com/ryangpaiva) | Ryan Paiva |
+| <img width="100px" alt="Python" src="../../../../docs/recursos/ícones/python.svg"> | Python | [@ryangpaiva](https://github.com/ryangpaiva) | Ryan Paiva |
