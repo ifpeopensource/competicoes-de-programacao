@@ -28,7 +28,7 @@ Seu programa deve produzir uma única linha, contendo um inteiro, o número tota
 - 1 ≤ I ≤ N
 - 1 ≤ R ≤ M
 - 1 ≤ A ≤ N
-<li>1 ≤ Pi ≤ N para 1 ≤ i ≤ A</li>
+- 1 ≤ Pi ≤ N para 1 ≤ i ≤ A
 
 ---
 ## Exemplos:
