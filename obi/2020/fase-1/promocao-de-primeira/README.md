@@ -17,7 +17,7 @@ A primeira linha da entrada contém um inteiro N, representando o número de cid
 Seu programa deve imprimir uma linha contendo um inteiro representando o número máximo de cidades num caminho para o qual é preciso pagar apenas uma passagem durante a celebração da Linearidade Real.
 
 ## Restrições
-<li>2 ≤ N ≤ 50000</li>
+- 2 ≤ N ≤ 50000
 - 1 ≤ A ≤ N
 - 1 ≤ B ≤ N
 - 0 ≤ E ≤ 1
