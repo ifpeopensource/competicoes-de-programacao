@@ -24,7 +24,7 @@ Seu programa deve produzir uma única linha, contendo um inteiro, o número tota
 
 ## Restrições
 - 2 ≤ N ≤ 1000
-<li>2 ≤ M ≤ 1000</li>
+- 2 ≤ M ≤ 1000
 <li>1 ≤ I ≤ N</li>
 <li>1 ≤ R ≤ M</li>
 <li>1 ≤ A ≤ N</li>
