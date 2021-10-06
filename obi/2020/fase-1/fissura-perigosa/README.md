@@ -7,7 +7,7 @@ A erupção do vulcão Kilauea em 2018 no Havaí atraiu a atenção de todo o mu
 
 Você está ajudando na implementação de um sistema para simular a área por onde a lava avançaria, em função da força da erupção. O mapa será representado simplificadamente por uma matriz quadrada de caracteres, de 1 a 9, indicando a altitude do terreno em cada posição da matriz. Vamos considerar que a fissura 8, por onde a erupção se inicia, está sempre na posição do canto superior esquerdo da matriz. Dada a força da erupção, que será um valor inteiro, de 0 a 9, seu programa deve imprimir a matriz de caracteres representando o avanço final da lava. Se a lava consegue invadir uma posição da matriz, o caractere naquela posição deve ser trocado por um asterisco ('*'). Uma posição será invadida pela lava se seu valor for menor ou igual à força da erupção e
 
-<li>for a posição inicial; ou</li>
+- for a posição inicial; ou
 <li>estiver adjacente, ortogonalmente (abaixo, acima, à esquerda ou à direita), a uma posição invadida.</li>
 
 A figura abaixo mostra um exemplo de mapa e o avanço final da lava para quatro forças de erupção: 1, 3, 6 e 8, respectivamente da esquerda para a direita.
