@@ -22,7 +22,7 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o maior
 
 ## Restrições
 - 1 ≤ N ≤ 2000
-<li>-10000 ≤ X ≤ 10000</li>
+- -10000 ≤ X ≤ 10000
 - -10000 ≤ Y ≤ 10000
 
 
