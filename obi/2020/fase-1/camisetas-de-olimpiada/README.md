@@ -18,7 +18,7 @@ Seu programa deve produzir uma única linha, contendo um único caractere, que d
 ## Restrições
 - 1 ≤ N ≤ 1000
 - 0 ≤ P ≤ 1000
-<li>0 ≤ M ≤ 1000</li>
+- 0 ≤ M ≤ 1000
 <li>N ≤ P + M</li>
 <li>1 ≤ Xi ≤ 2 para 1 ≤ i ≤ N</li>
 
