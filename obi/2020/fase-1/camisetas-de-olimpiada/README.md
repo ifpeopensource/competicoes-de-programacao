@@ -20,7 +20,7 @@ Seu programa deve produzir uma única linha, contendo um único caractere, que d
 - 0 ≤ P ≤ 1000
 - 0 ≤ M ≤ 1000
 - N ≤ P + M
-<li>1 ≤ Xi ≤ 2 para 1 ≤ i ≤ N</li>
+- 1 ≤ Xi ≤ 2 para 1 ≤ i ≤ N
 
 ---
 ## Exemplos:
