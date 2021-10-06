@@ -9,7 +9,7 @@ Cada tenda tem uma quantidade ilimitada de guloseimas. As crianças devem sair d
 
 - A cada visita a uma tenda, a criança ganha exatamente uma guloseima.
 - Uma tenda pode ser visitada mais de uma vez pela mesma criança, desde que as visitas não sejam consecutivas (ou seja, uma imediatamente após a outra).
-<li>As distâncias que uma criança percorre para chegar à "próxima tenda" devem ser estritamente decrescentes. Ou seja, a distância que a criança percorre do Palácio até a primeira tenda que a criança visita deve ser maior do que a distância que a criança percorre entre a primeira tenda e a segunda tenda, que por sua vez deve ser maior do que a distância que a criança percorre entre a segunda tenda e a terceira tenda, e assim por diante.</li>
+- As distâncias que uma criança percorre para chegar à "próxima tenda" devem ser estritamente decrescentes. Ou seja, a distância que a criança percorre do Palácio até a primeira tenda que a criança visita deve ser maior do que a distância que a criança percorre entre a primeira tenda e a segunda tenda, que por sua vez deve ser maior do que a distância que a criança percorre entre a segunda tenda e a terceira tenda, e assim por diante.
 
 
 Pedrinho percebeu que se planejar direito suas visitas, pode ganhar muitas guloseimas! Escreva um programa para ajudar Pedrinho a ganhar o maior número possível de guloseimas no Ralouim.
