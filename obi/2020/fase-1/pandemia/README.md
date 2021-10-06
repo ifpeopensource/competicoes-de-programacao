@@ -11,7 +11,7 @@ Muitas reuniões de estudo aconteceram, mas nem todos os amigos participaram de 
 
 Você receberá a informação de quais amigos participaram de cada reunião. Além disso, você receberá também a informação de qual amigo participou de reunião do grupo após ter sido infectado por pessoas de fora do grupo, e em qual reunião isso ocorreu. Você deve assumir que:
 
-<li>todos os amigos que participaram de reunião em que ao menos um deles estava infectado também foram infectados.
+- todos os amigos que participaram de reunião em que ao menos um deles estava infectado também foram infectados.
 o único amigo infectado por pessoas de fora do grupo é o que foi informado. No caso de todos os outros amigos que foram infectados a infecção aconteceu em reunião do grupo.</li>
 <li>Escreva um programa para determinar quantos amigos, ao final da sequência de reuniões, foram infectados.</li>
 
