@@ -18,7 +18,7 @@ Seu programa deve produzir uma única linha, contendo um único número inteiro,
 
 ## Restrições
 - 1 ≤ N ≤ 100000
-<li>1 ≤ P ≤ 1000</li>
+- 1 ≤ P ≤ 1000
 
 
 ---
