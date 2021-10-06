@@ -23,7 +23,7 @@ A primeira linha da entrada contém dois números inteiros N, M, respectivamente
 Seu programa deve produzir uma única linha, contendo um inteiro, o número total de amigos infectados ao final do mês.
 
 ## Restrições
-<li>2 ≤ N ≤ 1000</li>
+- 2 ≤ N ≤ 1000
 <li>2 ≤ M ≤ 1000</li>
 <li>1 ≤ I ≤ N</li>
 <li>1 ≤ R ≤ M</li>
