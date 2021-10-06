@@ -32,7 +32,7 @@ A primeira linha da entrada contém dois inteiros N e F representando, respectiv
 Seu programa deve imprimir N linhas contendo, cada uma, N caracteres representando o avanço final da lava de acordo com o enunciado.
 
 ## Restrições
-<li>1 ≤ N ≤ 500</li>
+- 1 ≤ N ≤ 500
 <li>0 ≤ F ≤ 9</li>
 
 
