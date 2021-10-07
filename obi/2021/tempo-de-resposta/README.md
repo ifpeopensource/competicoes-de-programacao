@@ -14,10 +14,8 @@ da mensagem que enviou anteriormente.
 O aplicativo de mensagens que Sara e seus amigos usam recebe e envia mensagens instantaneamente.
 O envio e o recebimento de mensagens são chamados de eventos. O aplicativo registra cada evento
 na ordem em que os eventos ocorrem, usando dois tipos de registro:
-<ul>
-<li> R X indica que uma mensagem foi recebida do amigo X. </li>
-<li> E X indica que uma mensagem foi enviada ao amigo X. </li>
-</ul>
+- `R X` indica que uma mensagem foi recebida do amigo `X`.
+- `E X` indica que uma mensagem foi enviada ao amigo `X`.
 O aplicativo usa ainda um outro tipo de registro, para indicar o tempo que se passou entre dois
 eventos consecutivos, na forma:
 <ul>
