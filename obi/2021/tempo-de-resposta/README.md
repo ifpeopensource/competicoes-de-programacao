@@ -2,7 +2,7 @@
   <img width="250px" src="../../../docs/imagens/obi/logo-obi.svg"/> 
 </p>
 
- <h1 align="center" style="font-weight: bold">OBI 2021 - <span style="font-style: italic">Idade de Camila</span></h1>
+ <h1 align="center" style="font-weight: bold">OBI 2021 - <span style="font-style: italic">Tempo de Resposta</span></h1>
 
 Sara adora trocar mensagens com amigos. Como ela recebe e envia muitas mensagens, está preocupada com o tempo que seus amigos esperam para receber respostas das mensagens.
 As seguintes regras de etiqueta são sempre obedecidas:
