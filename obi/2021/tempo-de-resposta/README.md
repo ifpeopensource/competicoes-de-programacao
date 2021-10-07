@@ -18,10 +18,8 @@ na ordem em que os eventos ocorrem, usando dois tipos de registro:
 - `E X` indica que uma mensagem foi enviada ao amigo `X`.
 O aplicativo usa ainda um outro tipo de registro, para indicar o tempo que se passou entre dois
 eventos consecutivos, na forma:
-<ul>
-<li> T X indicando que X segundos se passaram entre o evento anterior e o evento posterior a
-esse registro. </li>
-</ul>
+- `T X` indicando que `X` segundos se passaram entre o evento anterior e o evento posterior a
+esse registro.
 Se não há registro do tipo T X entre dois registros de eventos consecutivos significa que exatamente
 1 segundo se passou entre esses dois eventos.
 <br/>
