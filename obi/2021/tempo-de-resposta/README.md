@@ -6,12 +6,10 @@
 
 Sara adora trocar mensagens com amigos. Como ela recebe e envia muitas mensagens, está preocupada com o tempo que seus amigos esperam para receber respostas das mensagens.
 As seguintes regras de etiqueta são sempre obedecidas:
-<ul>
-<li> As únicas mensagens que Sara envia são respostas a mensagens que ela recebeu. </li>
-<li> Sara envia no máximo uma mensagem como reposta a uma mensagem que recebeu.</li>
-<li> Um amigo de Sara nunca envia uma nova mensagem para Sara até que tenha recebido resposta
-da mensagem que enviou anteriormente.</li>
-</ul>
+- As únicas mensagens que Sara envia são respostas a mensagens que ela recebeu.
+- Sara envia no máximo uma mensagem como reposta a uma mensagem que recebeu.
+- Um amigo de Sara nunca envia uma nova mensagem para Sara até que tenha recebido resposta
+da mensagem que enviou anteriormente.
 
 O aplicativo de mensagens que Sara e seus amigos usam recebe e envia mensagens instantaneamente.
 O envio e o recebimento de mensagens são chamados de eventos. O aplicativo registra cada evento
