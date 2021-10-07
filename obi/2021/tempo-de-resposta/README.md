@@ -36,10 +36,10 @@ Dada a lista de registros do aplicativo de Sara, sua tarefa é determinar o Temp
 para cada amigo.
 
 ## Entrada ⬅️ 
-A primeira linha da entrada contém um inteiro N, o número de registros. Os amigos de Sara são
-identificados por números inteiros. Cada uma das N linhas seguintes descreve um registro e contém
-um caractere (R, E ou T) seguido de um número inteiro X. No caso de registros dos tipos R e E
-o valor de X indica um amigo de Sara; no caso do registro de tipo T, o valor de X indica o número
+A primeira linha da entrada contém um inteiro `N`, o número de registros. Os amigos de Sara são
+identificados por números inteiros. Cada uma das `N` linhas seguintes descreve um registro e contém
+um caractere (`R`, `E` ou `T`) seguido de um número inteiro `X`. No caso de registros dos tipos `R` e `E`
+o valor de `X` indica um amigo de Sara; no caso do registro de tipo `T`, o valor de `X` indica o número
 de segundos que se passaram entre o evento anterior e o posterior.
 
 ## Saída ➡️
