@@ -64,6 +64,9 @@ Seu programa deve produzir uma única linha, contendo um único caractere, que d
 
 <br/>
 
+## Link para Online Judge:
+[NEPS Academy](https://neps.academy/br/exercise/980)
+
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
