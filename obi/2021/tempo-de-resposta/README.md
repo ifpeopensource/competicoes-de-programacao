@@ -94,6 +94,9 @@ dos amigos.
   ```
 <br/>
 
+## Link para Online Judge:
+[NEPS Academy](https://neps.academy/br/exercise/1483)
+
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
