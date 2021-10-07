@@ -20,7 +20,7 @@ O aplicativo usa ainda um outro tipo de registro, para indicar o tempo que se pa
 eventos consecutivos, na forma:
 - `T X` indicando que `X` segundos se passaram entre o evento anterior e o evento posterior a
 esse registro.
-Se não há registro do tipo T X entre dois registros de eventos consecutivos significa que exatamente
+Se não há registro do tipo `T X` entre dois registros de eventos consecutivos significa que exatamente
 1 segundo se passou entre esses dois eventos.
 <br/>
 O Tempo de Resposta de uma mensagem é o tempo que se passa entre o recebimento da mensagem
