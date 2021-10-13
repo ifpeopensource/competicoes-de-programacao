@@ -17,7 +17,7 @@ A entrada consiste de apenas uma linha contendo um inteiro D, representando a di
 Seu programa deve produzir na saída uma única linha, contendo um único número inteiro, o sensor atingido pela partícula.
 
 ## Restrições
-- 1 ≤ N ≤ 40 6 ≤ D ≤ 800008. D sempre será a distância total percorrida entre o emissor e algum sensor.
+- 6 ≤ D ≤ 800008. D sempre será a distância total percorrida entre o emissor e algum sensor.
 
 
 
