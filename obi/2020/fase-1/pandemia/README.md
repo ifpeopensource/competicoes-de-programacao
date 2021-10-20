@@ -89,5 +89,5 @@ Seu programa deve produzir uma única linha, contendo um inteiro, o número tota
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
+| <img width="100px" alt="Python" src="../../../../docs/recursos/ícones/python.svg"> | Python | [@fabiopapais](https://github.com/fabiopapais) | Fábio Papais |
 

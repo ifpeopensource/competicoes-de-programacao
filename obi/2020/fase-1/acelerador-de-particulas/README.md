@@ -62,3 +62,4 @@ Seu programa deve produzir na saída uma única linha, contendo um único númer
 |:---:|:---:|:---:|:---:|
 | <img width="100px" alt="Jupyter" src="../../../../docs/recursos/ícones/jupyter.svg"> | Python (Jupyter) | [@weltonfelix](https://github.com/weltonfelix) | Welton |
 | <img width="100px" alt="Python" src="../../../../docs/recursos/ícones/python.svg"> | Python | [@weltonfelix](https://github.com/weltonfelix) | Welton |
+| <img width="100px" alt="C++" src="../../../../docs/recursos/ícones/c++.svg"> | C++ | [@fabiopapais](https://github.com/fabiopapais) | Fábio Papais |

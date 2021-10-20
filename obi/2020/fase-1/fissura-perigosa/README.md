@@ -103,4 +103,4 @@ Seu programa deve imprimir N linhas contendo, cada uma, N caracteres representan
 ## Soluções adicionadas:
 | Ícone | Linguagem | Tag | Nome |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
+| <img width="100px" alt="C++" src="../../../../docs/recursos/ícones/c++.svg"> | C++ | [@fabiopapais](https://github.com/fabiopapais) | Fábio Papais |
