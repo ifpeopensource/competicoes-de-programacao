@@ -8,19 +8,12 @@ O rei da Nlogônia ordenou que todos os documentos importantes sejam "cifrados",
 
 O rei decretou que o seguinte algotimo deve ser usado para cifrar os documentos:
 
-<ul>
-<li>
-Cada consoante deve ser substituída por exatamente três letras, na seguinte ordem:
-<ol>
-    <li>a própria consoante (vamos chamar de `consoante original`);</li>
-    <li>a vogal mais próxima da consoante original no alfabeto, com a regra adicional de que se a consoante original está à mesma distância de duas vogais, então a vogal mais próxima do início do alfabeto é usada. Por exemplo, se a consoante original é `d`, a vogal que deve ser usada é `e`, pois esta é a vogal mais próxima; se a consoante original é `c`, a vogal que deve ser utilizada é `a`, porque `c` está à mesma distância de `a` e `e`, e `a` é mais próxima do início do alfabeto.</li>
-    <li>a consoante que segue a consoante original, na ordem do início ao fim do alfabeto. Por exemplo, se a consoante original é `d`, a consoante a ser utilizada é `f`. No caso de a consoante original ser `z`, deve ser utilizada a própria letra `z`.</li>
-</ol>
-</li>
-<li>
-As vogais não são modificadas. 
-</li>
-</ul>
+- Cada consoante deve ser substituída por exatamente três letras, na seguinte ordem:
+  1. a própria consoante (vamos chamar de `consoante original`);
+  2. a vogal mais próxima da consoante original no alfabeto, com a regra adicional de que se a consoante original está à mesma distância de duas vogais, então a vogal mais próxima do início do alfabeto é usada. Por exemplo, se a consoante original é `d`, a vogal que deve ser usada é `e`, pois esta é a vogal mais próxima; se a consoante original é `c`, a vogal que deve ser utilizada é `a`, porque `c` está à mesma distância de `a` e `e`, e `a` é mais próxima do início do alfabeto.
+  3. a consoante que segue a consoante original, na ordem do início ao fim do alfabeto. Por exemplo, se a consoante original é `d`, a consoante a ser utilizada é `f`. No caso de a consoante original ser `z`, deve ser utilizada a própria letra `z`.
+
+- As vogais não são modificadas.
 Nesta tarefa, o alfabeto é
 <p align="center">a b c d e f g h i j k l m n o p q r s t u v x z</p>
 e as vogais são
